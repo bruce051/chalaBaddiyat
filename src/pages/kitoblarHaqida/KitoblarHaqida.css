@@ -1,0 +1,235 @@
+.kitoblarHaqida{
+    width: 100%;
+    background: #191919;
+    padding-top: 57px;
+}
+
+.kitoblar_warp-left img{
+    height: 810.12890625px;
+    width: 519.2926635742188px;
+    border-radius: 15px;
+}
+
+.kitoblar_warp{
+    display: flex;
+}
+
+.kitoblar_warp-right{
+    margin-left: 56px;
+}
+
+.kitoblar_warp-right h2{
+    height: 53px;
+    width: 195px;
+    color: rgba(201, 172, 140, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    margin-bottom: 13px;
+}
+
+.aftr{
+    display: flex;
+    justify-content: space-around;
+    max-width: 200px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 40px;
+}
+
+.aftr p{
+    color: rgba(201, 172, 140, 1);
+}
+
+.pageCount{
+    display: flex;
+    width: 200px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.pageCount p{
+    margin-left: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.madeIn{
+    display: flex;
+    width: 200px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.madeIn p{
+    margin-left: 14.5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.genre{
+    display: flex;
+    width: 171px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.genre p{
+    height: 20px;
+    width: 95.95713806152344px;
+    color: rgba(255, 255, 255, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+.nashr{
+    display: flex;
+    width: 250px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 48px;
+}
+
+.nashr p{
+    color: rgba(255, 255, 255, 1);
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.toliqMal{
+    display: flex;
+    align-items: center;
+    width: 701px;
+    color: rgba(201, 172, 140, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 48px;
+}
+
+.toliqMal ion-icon{
+    font-size: 29px;
+    margin: 0 19px 0 11px;
+    color: White;
+    height: 18.125px;
+    width: 7.363961219787598px;
+}
+
+.toliqMal hr{
+    color: rgba(201, 172, 140, 0.6);
+    height: 0px;
+    width: 544.2518310546897px;
+}
+
+.kitonInfo{
+    height: 276px;
+    width: 670px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 144.4%;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 45px;
+}
+
+.haveFormat{
+    height: 16px;
+    width: 127px;
+    color: rgba(201, 172, 140, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 30px;
+}
+
+.fourPage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kitoblar_warp-right-bottom-left{
+    display: flex;
+}
+
+.bottom_left-item1, .bottom_left-item2, .bottom_left-item3{
+    text-align: center;
+
+}
+
+.bottom_left-item1 h3, .bottom_left-item2 h3, .bottom_left-item3 h3{
+    height: 16px;
+    width: 130px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.bottom_left-item1 p, .bottom_left-item2 p, .bottom_left-item3 p{
+    color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    height: 16px;
+    width: 95px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.kitoblar_warp-right-bottom-right button{
+    height: 48px;
+    width: 200px;
+    left: 487px;
+    top: 12px;
+    border-radius: 0px;
+    /* padding: 16px 32px 16px 32px; */
+    background-color: rgba(201, 172, 140, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: rgba(60, 39, 16, 1);
+    cursor: pointer;
+}
+
+.kitoblar_warp{
+    padding-bottom: 65px;
+}

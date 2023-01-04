@@ -1,0 +1,31 @@
+.kitoblar{
+    width: 100%;
+    background: #191919;
+}
+
+.muallif{
+    height: 17px;
+    width: 140px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 144.4%;
+    margin: 2px 0;
+}
+
+.kitoblarCard{
+    height: 321.823486328125px;
+    width: 165px;
+}
+
+.humans{
+    height: 400px;
+}
+
+.comments{
+    height: 17px;
+    width: 194px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 144.4%;
+}
